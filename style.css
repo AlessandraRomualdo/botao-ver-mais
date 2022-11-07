@@ -24,6 +24,7 @@ p{
 }
 section{
     height: auto;
+    width:750px;
     background-color: #1ed9a45a;
     border-radius: 5px;
 }
