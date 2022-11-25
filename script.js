@@ -3,7 +3,7 @@ let pontos = document.getElementById("pontos");
 let maisTexto = document.getElementById("mais");
 let bVermais = document.getElementById("bvermais");
 
-    if(pontos.style.display === "nome"){
+    if(pontos.style.display == "nome"){
         pontos.style.display = "inline";
         maisTexto.style.display = "none";
         bVermais.innerHTML = "Ver mais";
